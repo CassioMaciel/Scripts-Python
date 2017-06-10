@@ -1,3 +1,5 @@
+
+
 valor = int(input("Digite um valor \n"))
 
 print('Analisando o valor {}, vemos que o antecessor é {} e o sucessor é {}'.format(valor,valor-1,valor+1))
