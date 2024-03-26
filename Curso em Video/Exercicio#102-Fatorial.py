@@ -8,7 +8,7 @@ Fonte:https://www.youtube.com/watch?v=84jUX96cs7Q
 """
 
 
-def fatorial(n: int, show=False) -> int:
+def fatorial(n: int, show=False) -> (int, str):
     """
 
     fatorial(n, show=False):
@@ -16,7 +16,7 @@ def fatorial(n: int, show=False) -> int:
         :param n: Número a ser calculado o fatorial
         :param show: valor lógico opcional indicando se será mostrado ou não o
         cálculo do fatorial
-        :return: O valor do fatorial de n
+        :return: O valor do fatorial de n, ou string da conta
     """
     produto = 1
     return_var = ""
@@ -33,4 +33,4 @@ def fatorial(n: int, show=False) -> int:
 
 if __name__ == '__main__':
     # help(fatorial)
-    print(fatorial(5, show=False))
+    print(fatorial(5, show=True))
