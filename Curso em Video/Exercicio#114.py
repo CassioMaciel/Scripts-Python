@@ -1,6 +1,8 @@
 """
 Crie um código em python que teste se o site pudim está acessível pelo
 computador usado
+
+Fonte: https://www.youtube.com/watch?v=8jAykqxIeqw
 """
 import urllib
 from urllib import request
