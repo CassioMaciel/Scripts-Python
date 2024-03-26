@@ -4,7 +4,10 @@ https://www.youtube.com/watch?v=ElRd0cbXIv4&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3
 #####################################################################################################
 
 Para ver o "PEP 8 - Zen do Python", pode-se digitar
->>>import this
+
+```
+>>> import this
+```
 
 Para entender ele, pode-se ver o "Zen do Python comentado"
 https://medium.com/internet-das-coisas/o-zen-do-phyton-235d6aab0b94
