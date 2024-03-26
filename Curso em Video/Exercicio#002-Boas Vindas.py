@@ -4,4 +4,4 @@ vindas
 Fonte: https://www.youtube.com/watch?v=FNqdV5Zb_5Q
 """
 nome = input('Qual é o seu nome ?')
-print ('Olá',nome,'! Prazer em te conhecer!')
+print('Olá', nome, '! Prazer em te conhecer!')

@@ -4,4 +4,4 @@ Fonte: https://www.youtube.com/watch?v=PB254Cfjlyk
 """
 numero1 = input('Primeiro Numero')
 numero2 = input('Segundo Numero')
-print (int(numero1)+int(numero2))
+print(int(numero1)+int(numero2))

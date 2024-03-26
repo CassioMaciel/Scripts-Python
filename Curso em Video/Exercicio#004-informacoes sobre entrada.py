@@ -7,18 +7,18 @@ Fonte: https://www.youtube.com/watch?v=tHYxjJxtJko&index=4
 
 entrada = input('Digite Qualquer coisa')
 
-print('O tipo primitivo deste valor é',type(entrada))
+print('O tipo primitivo deste valor é', type(entrada))
 
-print('Só tem espaços ?',entrada.isspace())
+print('Só tem espaços ?', entrada.isspace())
 
-print('É um numero ?',entrada.isnumeric())
+print('É um numero ?', entrada.isnumeric())
 
-print('É alfabetico ?',entrada.isalpha())
+print('É alfabético ?', entrada.isalpha())
 
-print('É Alfanumerico ?',entrada.isalnum())
+print('É Alfanumérico ?', entrada.isalnum())
 
-print('Está em maiusculas ?',entrada.isupper())
+print('Está em maiúsculas ?', entrada.isupper())
 
-print('Está em minusculas',entrada.islower())
+print('Está em minusculas', entrada.islower())
 
-print('Está Captalizada ?',entrada.istitle())
+print('Está Capitalizada ?', entrada.istitle())

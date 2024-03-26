@@ -1,7 +1,7 @@
 """
-Reescreva a função leia int que fizemos no desafio 104, incluindo agora a
+Reescreva a função leia_int que fizemos no desafio 104, incluindo agora a
 possibilidade de digitação de um número invalido
-aproveite e escreva tambem a função leia float com a mesma funcionalidade
+aproveite e escreva também a função leia float com a mesma funcionalidade
 """
 
 

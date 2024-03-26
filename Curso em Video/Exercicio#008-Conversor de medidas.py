@@ -1,5 +1,5 @@
 """
-Esse exercício busca saber como converter metros em suas dĩvisões
+Esse exercício busca saber como converter metros em suas divisões
 com objetivo educacional
 
 Cassio Maciel - V0.1
@@ -7,7 +7,7 @@ Fonte: https://www.youtube.com/watch?v=KjcdG05EAZc
 """
 
 
-entrada=float(input('Por favor digite uma distância em metros:\n'))
+entrada = float(input('Por favor digite uma distância em metros:\n'))
 
 print('Uma medida de {} metros corresponde a:'.format(entrada))
 print('{} km'.format(entrada/1000))
